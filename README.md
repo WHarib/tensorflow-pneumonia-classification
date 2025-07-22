@@ -1,5 +1,5 @@
 ---
-title: Pneumonia Detection API (AmyJang CNN)
+title: Pneumonia Detection API (AmyJang TensorFlow)
 emoji: 🫁
 colorFrom: blue
 colorTo: gray
